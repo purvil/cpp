@@ -17,3 +17,9 @@ comment 1
 comment 2
 */
 ```
+
+* Headers from the standard library are enclosed in angle brackets (< >). Those that are not part of the library are enclosed in double quotes (" ").
+```
+#include <iostream>
+#include "Sales_item.h"
+```
