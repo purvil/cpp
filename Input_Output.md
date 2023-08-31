@@ -23,3 +23,5 @@ int main()
 sitting in memory waiting to be written.
 * The prefix `std::` indicates that the names `cout` and `endl` are defined inside the namespace named `std`.  NameSpace prevents name collision. All the names defined by the standard library are in the std namespace.
 * `::` is scope operator.
+*  `>>` It takes an istream as its left-hand operand and an object as its right-hand operand. It reads data from the given istream and stores what was read in the given object.
+* 
